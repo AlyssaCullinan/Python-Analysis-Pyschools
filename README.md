@@ -4,8 +4,6 @@
 
 This challenge was completed as part of the [Northwestern University Data Science and Visualization BootCamp](https://bootcamp.northwestern.edu/data/).
 
-#### Project Status: Completed
-
 ## Objective
 The purpose of this challenge was to analyze a city's school district data using Pandas DataFrames to summarize key metrics about each school.
 
