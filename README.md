@@ -1,4 +1,4 @@
-# Pandas-challenge
+<img width="931" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/3f008ecd-9846-48c0-a6f0-28f36288c695">
 
 ![Żabia 1, 91-457 Łódź, Poland, Łódź
 Published on October 31, 2015
