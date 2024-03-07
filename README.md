@@ -12,7 +12,7 @@ The purpose of this challenge was to analyze a city's school district data using
 <img width="673" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/1299de68-4e83-49bb-be2b-ee12c5d427e2">
 
 <br>
-<img width="904" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/bf459236-a947-4bce-9234-47e61714f156">
+<img width="903" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/f2aa3540-497d-4d4f-a6c7-96211de9ed01">
 
 ### Methods Used
 * Pandas DataFrames
