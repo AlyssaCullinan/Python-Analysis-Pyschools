@@ -1,4 +1,4 @@
-<img width="931" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/3f008ecd-9846-48c0-a6f0-28f36288c695">
+<img width="634" alt="image" src="https://github.com/AlyssaCullinan/Python-Analysis-Pyschools/assets/141466633/f7190672-152f-44c5-80e6-b7c62394dfa2">
 
 ## Weekly Challenge for Module 4
 
