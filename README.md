@@ -20,5 +20,3 @@ The purpose of this challenge was to analyze a city's school district data using
 * VS Code
 * Pandas
 
-### Sources
-1.[Geeks For Geeks](https://www.geeksforgeeks.org/selecting-rows-in-pandas-dataframe-based-on-conditions/) 2. Previous Class Activities 8. Ask BCS support 9. Tutored by Matthew Werth 10. Chat GPT for code proofreading
