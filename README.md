@@ -11,7 +11,6 @@ The purpose of this challenge was to analyze a city's school district data using
 * Pandas DataFrames
 * Groupby Function
 * Conditionals
-* Data Capture
 * Loops
 * Lists
 * CSV Reader
