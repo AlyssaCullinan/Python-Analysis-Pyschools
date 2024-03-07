@@ -8,7 +8,9 @@ This challenge was completed as part of the [Northwestern University Data Scienc
 The purpose of this challenge was to analyze a city's school district data using Pandas DataFrames to summarize key metrics about each school.
 <br>
 <br>
-![image](https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/a8aca7ea-4db3-4242-924a-f9d14e58e1ca)
+<br>
+<img width="673" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/1299de68-4e83-49bb-be2b-ee12c5d427e2">
+
 <br>
 <img width="904" alt="image" src="https://github.com/AlyssaCullinan/pandas-challenge/assets/141466633/bf459236-a947-4bce-9234-47e61714f156">
 
